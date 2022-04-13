@@ -1,0 +1,23 @@
+h2{
+    
+    color: rebeccapurple;
+    background-color:antiquewhite;
+    
+}
+.tabcolor{
+    background-color: black;
+    row-gap: 20px;
+    
+    
+}
+
+.tabscol{
+    background-color:darkgrey;
+    
+    row-gap: 30px;
+}
+
+.tabcolo{
+    background-color: yellow;
+    row-gap: 30px;
+}

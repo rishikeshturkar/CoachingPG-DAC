@@ -1,0 +1,24 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+  .part1{
+    width:50%;
+    float:left;
+    
+  }
+  .img{
+    height:100%;
+  }
+  .part2{
+    width:50%;
+    float:right;
+  }
+  .Login form {
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  h1{
+    color: blue;
+  }
+}
